@@ -1,0 +1,15 @@
+C:\Users\vijitha.p\source\repos\flight2\flight2\obj\Debug\net6.0\flight2.csproj.AssemblyReference.cache
+C:\Users\vijitha.p\source\repos\flight2\flight2\obj\Debug\net6.0\flight2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vijitha.p\source\repos\flight2\flight2\obj\Debug\net6.0\flight2.AssemblyInfoInputs.cache
+C:\Users\vijitha.p\source\repos\flight2\flight2\obj\Debug\net6.0\flight2.AssemblyInfo.cs
+C:\Users\vijitha.p\source\repos\flight2\flight2\obj\Debug\net6.0\flight2.csproj.CoreCompileInputs.cache
+C:\Users\vijitha.p\source\repos\flight2\flight2\bin\Debug\net6.0\flight2.exe
+C:\Users\vijitha.p\source\repos\flight2\flight2\bin\Debug\net6.0\flight2.deps.json
+C:\Users\vijitha.p\source\repos\flight2\flight2\bin\Debug\net6.0\flight2.runtimeconfig.json
+C:\Users\vijitha.p\source\repos\flight2\flight2\bin\Debug\net6.0\flight2.dll
+C:\Users\vijitha.p\source\repos\flight2\flight2\bin\Debug\net6.0\flight2.pdb
+C:\Users\vijitha.p\source\repos\flight2\flight2\obj\Debug\net6.0\flight2.dll
+C:\Users\vijitha.p\source\repos\flight2\flight2\obj\Debug\net6.0\refint\flight2.dll
+C:\Users\vijitha.p\source\repos\flight2\flight2\obj\Debug\net6.0\flight2.pdb
+C:\Users\vijitha.p\source\repos\flight2\flight2\obj\Debug\net6.0\flight2.genruntimeconfig.cache
+C:\Users\vijitha.p\source\repos\flight2\flight2\obj\Debug\net6.0\ref\flight2.dll

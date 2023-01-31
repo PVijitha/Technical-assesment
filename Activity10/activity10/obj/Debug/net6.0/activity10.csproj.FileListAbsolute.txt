@@ -1,0 +1,15 @@
+C:\Users\vijitha.p\source\repos\activity10\activity10\bin\Debug\net6.0\activity10.exe
+C:\Users\vijitha.p\source\repos\activity10\activity10\bin\Debug\net6.0\activity10.deps.json
+C:\Users\vijitha.p\source\repos\activity10\activity10\bin\Debug\net6.0\activity10.runtimeconfig.json
+C:\Users\vijitha.p\source\repos\activity10\activity10\bin\Debug\net6.0\activity10.dll
+C:\Users\vijitha.p\source\repos\activity10\activity10\bin\Debug\net6.0\activity10.pdb
+C:\Users\vijitha.p\source\repos\activity10\activity10\obj\Debug\net6.0\activity10.csproj.AssemblyReference.cache
+C:\Users\vijitha.p\source\repos\activity10\activity10\obj\Debug\net6.0\activity10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vijitha.p\source\repos\activity10\activity10\obj\Debug\net6.0\activity10.AssemblyInfoInputs.cache
+C:\Users\vijitha.p\source\repos\activity10\activity10\obj\Debug\net6.0\activity10.AssemblyInfo.cs
+C:\Users\vijitha.p\source\repos\activity10\activity10\obj\Debug\net6.0\activity10.csproj.CoreCompileInputs.cache
+C:\Users\vijitha.p\source\repos\activity10\activity10\obj\Debug\net6.0\activity10.dll
+C:\Users\vijitha.p\source\repos\activity10\activity10\obj\Debug\net6.0\refint\activity10.dll
+C:\Users\vijitha.p\source\repos\activity10\activity10\obj\Debug\net6.0\activity10.pdb
+C:\Users\vijitha.p\source\repos\activity10\activity10\obj\Debug\net6.0\activity10.genruntimeconfig.cache
+C:\Users\vijitha.p\source\repos\activity10\activity10\obj\Debug\net6.0\ref\activity10.dll
